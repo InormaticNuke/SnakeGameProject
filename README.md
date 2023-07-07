@@ -1,2 +1,2 @@
 # SnakeGameProject
- Coded using a tutorial for learning purposes
+ Minigme coded using a tutorial for learning purposes
